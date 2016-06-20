@@ -30,10 +30,10 @@ app_links: []
 isBasedOnUrl: >-
   http://www.theuntz.com/news/cant-stop-the-scamp-2016-brought-big-grizmatik-menert-band-and-more/
 title: 'Can''t stop the SCamp: 2016 brought Big GrizMatik, Menert band and more'
-datePublished: '2016-06-20T21:29:11.716Z'
-dateModified: '2016-06-20T20:56:52.680Z'
-starred: false
+datePublished: '2016-06-20T21:51:38.628Z'
+dateModified: '2016-06-20T21:51:38.315Z'
 sourcePath: _posts/2016-06-20-cant-stop-the-scamp-2016-brought-big-grizmatik-menert-ban.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
