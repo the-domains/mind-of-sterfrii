@@ -1,4 +1,4 @@
-typography_spectrum: 0.26518013095483184
+typography_spectrum: 0.0693418737500906
 color:
   brandStrength: 0.11475982004776597
   lightness: 0.9557843361981213
@@ -10,7 +10,7 @@ color:
     - '#445878'
     - '#92CDCF'
     - '#EEEFF7'
-layout_spectrum: 0.2530386021826416
+layout_spectrum: 0.7554155939724296
 analytics:
   twitter: '@Sterfrii'
 name: Mind of Sterfrii
