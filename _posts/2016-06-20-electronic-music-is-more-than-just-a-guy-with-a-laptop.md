@@ -30,10 +30,10 @@ app_links: []
 isBasedOnUrl: >-
   http://www.theuntz.com/news/electronic-music-is-more-than-just-a-guy-with-a-laptop/
 title: Electronic Music is more than just a guy with a laptop.
-datePublished: '2016-06-20T21:29:11.726Z'
-dateModified: '2016-06-20T20:54:55.529Z'
-starred: false
+datePublished: '2016-06-20T21:50:16.365Z'
+dateModified: '2016-06-20T21:50:15.993Z'
 sourcePath: _posts/2016-06-20-electronic-music-is-more-than-just-a-guy-with-a-laptop.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
